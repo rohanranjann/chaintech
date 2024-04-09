@@ -1,0 +1,113 @@
+.blockchain-color {
+    background-color: #def9de;
+}
+
+.security-color {
+    background-color: #fde8eb;
+}
+
+.motion-color {
+    background-color: #dde8f7;
+}
+
+.title {
+    font-size: 11px;
+}
+
+.title-img {
+    border-radius: 1rem;
+    height: 1.3rem;
+    width: 1.3rem;
+    margin-right: .5rem;
+    height: 23px;
+    width: 25px;
+}
+
+.cardBody {
+    height: 10rem;
+    padding-bottom: 0px !important;
+    justify-content: center;
+    position: relative;
+}
+
+.cardText {
+    font-size: 12px;
+    text-align: center;
+    color: black;
+    font-weight: 700;
+}
+
+.card-text {
+    position: relative;
+    color: black;
+    font-weight: 700;
+}
+
+.cardFooter {
+    /* bottom: 0rem;
+    position: absolute;
+    border-top: 1px solid;
+    margin-left: -1rem;
+    width: 100%; */
+    display: flex;
+    justify-content: right;
+    /* padding-right: 1rem; */
+}
+
+.explore-btn {
+    height: 1.5rem;
+    font-size: 10px;
+    margin: 10px 0 10px 0;
+    border-radius: 15px 15px;
+    border: 1px solid black;
+    padding-top: 3px;
+}
+
+.buttonIcon {
+    width: 1rem;
+    border-radius: 2rem;
+    margin-left: .3rem;
+}
+
+.icons{
+    font-size: 32px;
+    display: inline-block;
+    margin-left: 25%;
+}
+.copyright{
+
+    border-top: 1px solid;
+    padding-top: 10px;
+
+}
+
+.cardImg {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    bottom: 0;
+}
+
+.title-holder{
+    font-weight:bold;
+    line-height: 1rem;
+    margin-bottom: 2rem;
+    
+}
+.title-head{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.arrow{
+    cursor: pointer;
+    font-size: smaller;
+    float: left;
+    position: relative;
+    margin-left: 4%;
+}
+
+.card-position{
+    display: flex;
+    justify-content: center;
+}
